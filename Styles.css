@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    margin-right: 0;
+}
+
+H1{
+    color: rgb(166, 134, 230);
+    font-size: 110px;
+    font-family: 'Dancing Script', cursive;;
+    text-align: center;
+}
+.option_header{
+    text-decoration: none;
+    color: rgb(121, 92, 177) ;
+        margin-left: 40px;
+       
+}
+#navbar{
+    background-color:  rgba(166, 134, 230, 0.712);
+    display: flex;
+    justify-content: flex-end;
+    font-family: 'Dancing Script' ;
+    font-size: 25px;
+
+    
+}
+.option_header:hover{
+    opacity: 50%;;
+}
+img{
+    
+    width: 99dvw;
+
+}
+#subtitulo{
+    background-color: rgba(166, 134, 230, 0.76) ;
+    color: white;
+    font-size: 45px;
+    text-align: center;
+
+}
+
+
+#Ins{
+    width: 25px;
+}
+#GlitterExperience{
+    display: flex;
+    text-align: left;
+    }
+    #titulo{
+        color: rgb(121, 92, 177);
+        text-align: center;
+        font-family: 'Young Serif', serif;
+        font-size: 40px;
+    }
+    #respuesta{
+        text-align: center;
+        font-size:  30px;
+        font-family: sans-serif;
+        letter-spacing: 2px;
+        line-height: 50px;
+         }
+         #respuesta{text-align: center;}
+         #Novios{
+            width: 35dvw;
+        }
+        .carousel-container {
+            display:flex;
+            text-align: right; 
+            
+          }
+          
+          .carousel {
+            display: flex; 
+            
+          }
+          
+          .text-content {
+            padding: 1px; 
+                display: block; 
+                     
+          }
+
+          
+        .carrusel{
+            width: 200dvw;
+        }
+         .carrusel_items{   
+            display: flex;
+            overflow-x: hidden;
+            overflow-y: hidden;
+            padding: 90px 0px;
+            background-color: rgba(166, 134, 230, 0.712);
+            margin-left: 2px;
+            
+         }
+         .carrusel_foto img{
+            width: 250px;
+            outline: 2px solid  rgb(121, 92, 177);
+         }
+         .carrusel_foto :hover{
+            transform: scale(2);
+            
+         }
+             .descripcion{
+                margin-left: 20px;
+                
+             }    
+        #servicio{
+            color: rgb(121, 92, 177);
+        text-align: center;
+        font-family: 'Young Serif', serif;
+        font-size: 20px;
+        }
+        #ser{
+            text-align: left;
+        font-size:  10px;
+        font-family: sans-serif;
+        letter-spacing: 1.5px;
+        line-height: 25px;
+
+        }
+
+         .boton-whatsapp {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+        }
+    
+        .boton-whatsapp a {
+            text-decoration: none;
+        }
+    
+        .boton-whatsapp img {
+            width: 50px; }
+
+         .footer-content{
+            display: block;}
+
+.footer-content img{
+    width: 50px;
+}
+   
+        
